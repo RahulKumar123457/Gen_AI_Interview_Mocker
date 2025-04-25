@@ -14,4 +14,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Deployed Link : 
+Deployed Link : https://rahul-kumar-gen-ai-interview-mocker-nu.vercel.app/

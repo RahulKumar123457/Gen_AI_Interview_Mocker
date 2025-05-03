@@ -12,7 +12,9 @@ pnpm dev
 bun dev
 ```
 To run the Project 
+<br>
 Step 1: npm run build
+<br>
 Step 2: npm run dev
 <br>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
